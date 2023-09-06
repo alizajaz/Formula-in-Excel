@@ -1,1 +1,8 @@
 # Formula-in-Excel
+=MAX()(CHOOSE INITIAL NUMBER AND DRAG TO BOTTOM ) YOU WILL GET MAXIMUM DATE
+=MIN() EXACT OPPOSITE TO MAX
+=IF(D2:D10>30,"OLD","YOUNG")
+=IF(F2:F10 = "Salesman", "Sales", IF(F2:F10 = "HR", "Fire Immediately", ""))
+=LEN(C2:C10)
+=LEFT(B2:B10,3)
+=TEXT(H2:H10,"dd/mm/yyyy")(DATE TO TEXT FORMULA)
